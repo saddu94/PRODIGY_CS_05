@@ -1,7 +1,3 @@
-Here's a more professional and structured version for a GitHub README:
-
----
-
 # PRODIGY_CS_05
 
 This project, completed as part of an internship at Prodigy InfoTech, involves a cybersecurity tool for network packet analysis.
